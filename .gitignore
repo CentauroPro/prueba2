@@ -1,0 +1,9 @@
+# Omitir archivos con extensión .db
+*.db
+
+# Omitir documentos secrets.js y credenciales_correo.py
+secrets.js
+credenciales_correo.py
+
+# Omitir la carpeta __pycache__
+__pycache__/
